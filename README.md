@@ -46,3 +46,9 @@ Added advent of code 2023 to the same project
 18. Lavaduct Lagoon (Part 1)
 19. Aplenty (Part 1)
 20. Pulse Propagation (part 1)
+
+# aoc2025
+Added advent of code 2025 to the same project
+## Solved puzzles
+1. Secret Entrance
+2. 
