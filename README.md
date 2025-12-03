@@ -52,4 +52,5 @@ Added advent of code 2025 to the same project
 ## Solved puzzles
 1. Secret Entrance
 2. Gift Shop
-3. 
+3. Lobby 
+4. 
