@@ -54,3 +54,5 @@ Added advent of code 2025 to the same project
 2. Gift Shop
 3. Lobby 
 4. Printing Department
+5. --
+6. Trash Compactor
