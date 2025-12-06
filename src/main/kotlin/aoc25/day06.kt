@@ -5,8 +5,8 @@ import java.io.File
 fun main() {
 
     val path = "src/main/input/aoc25/day06.txt"
-    val rows = File(path).readText().split(Regex("(\\r?\\n)+")).map { it.trim().split(Regex("\\s+")) } as MutableList<List<String>>
     val rawRows = File(path).readText().split(Regex("(\\r?\\n)+")) as MutableList<String>
+    val rows = rawRows.map { it.trim().split(Regex("\\s+")) } as MutableList<List<String>>
     val lastRow = rawRows.removeLast()
 
     fun part1(operands: List<String>, rows: MutableList<List<String>>): Long {
