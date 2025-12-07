@@ -56,3 +56,5 @@ Added advent of code 2025 to the same project
 4. Printing Department
 5. --
 6. Trash Compactor
+7. Laboratories 
+8. 
