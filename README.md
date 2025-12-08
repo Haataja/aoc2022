@@ -57,4 +57,5 @@ Added advent of code 2025 to the same project
 5. Cafeteria (part1)
 6. Trash Compactor
 7. Laboratories 
-8. 
+8. Playground (part1)
+9. 
