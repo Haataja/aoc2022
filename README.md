@@ -59,4 +59,6 @@ Added advent of code 2025 to the same project
 7. Laboratories 
 8. Playground (part1)
 9. Movie Theater (part1)
-10. 
+10. --
+11. Reactor (part1)
+12. 
